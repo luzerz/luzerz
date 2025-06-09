@@ -6,7 +6,7 @@ DevSecOps Engineer
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [amonchaibeer@gmail.com](mailto:amonchaibeer@gmail.com)
-* 🚀  I'm currently working on [Zeabix](http://www.zeabix.com/)
+* 🚀  I'm currently working on [AI&Robotics](https://arv.co.th/)
 * 🧠  I'm learning a new framework
 
 <a href="https://www.github.com/luzerz" target="_blank" rel="noreferrer"><img
